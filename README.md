@@ -16,4 +16,11 @@ haven't started doing any projects so will upload after doing some
 -Problem solving
 -part time engineer
 
+# Hobbies section
+1- playing football
+2- writing essays
+3- using laptop
+- [x] done simple ict tasks
+- [ ] pf 10 tasks
+
 
